@@ -6,7 +6,7 @@ if(isset($_GET["download"])){
 	//Set the url (note that this file isn't created for eBook viewing, it's just
 	//to demonstrate that you can give (almost) any news article and get it working on
 	//your eBook reader)
-	$url = "http://thetricky.net/mySQL/GROUP%20BY%20vs%20ORDER%20BY";
+	$url = "http://thetricky.net/mySQL/Mysql%20join";
 	$recognize = false;
 
 	//Create the mobi object
